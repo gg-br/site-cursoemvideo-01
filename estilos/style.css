@@ -159,7 +159,7 @@ main strong
 main a
 {
     text-decoration: none;
-    background-color: var(--cor6);
+    background-color: var(--cor0);
     color: var(--cor3);
     padding: 2px 4px;
     font-weight: bold;
@@ -220,7 +220,7 @@ footer a:hover
 
 div.video
 {
-    background-color:var(--cor1) ;
+    background-color:var(--cor3) ;
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 59%;
